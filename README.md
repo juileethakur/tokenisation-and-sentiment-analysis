@@ -12,3 +12,5 @@ This repository consists all my assignments done in my Web mining class at the u
   
 ## 3. Analyze a Document using class
   - AnalyzeDoc_class.ipynb
+  - positive.txt
+  - negative.txt
