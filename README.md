@@ -10,4 +10,5 @@ This repository consists all my assignments done in my Web mining class at the u
   - negative.txt
 
   
-3. 
+## 3. Analyze a Document using class
+  - AnalyzeDoc_class.ipynb
